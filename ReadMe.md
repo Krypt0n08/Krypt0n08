@@ -1,5 +1,5 @@
 # 💫 About Me:
-🤖Robotics Enthusiast with several years of hands-on experience as a member of Tux LWL robotics team<br>🎓Dual Student in Business Informatics at Phoenix Contact<br>🔭Currently exploring common Programming Languages <br>💻Advanced Knowledge in Java, Python, SQL and C++ <br>
+🤖Robotics Enthusiast with several years of hands-on experience as a member of Tux LWL robotics team<br>🎓Dual Student in Business Informatics at Phoenix Contact<br>🔭Currently exploring common Programming Languages <br>💻Advanced Knowledge in Java, Python, SQL and with Arduino/ESP <br>
 
 
 ## 🌐 Socials:
